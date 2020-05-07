@@ -1,0 +1,16 @@
+{
+  "name": "@jtran/subapp",
+  "version": "1.0.0",
+  "description": "Sample local app dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "react-cosmos-apollo-proxy": "4.8.2"
+  }
+}
